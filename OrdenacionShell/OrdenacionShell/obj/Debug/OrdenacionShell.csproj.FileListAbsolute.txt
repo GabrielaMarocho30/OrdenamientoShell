@@ -1,0 +1,10 @@
+C:\Users\karen\source\repos\OrdenacionShell\OrdenacionShell\bin\Debug\OrdenacionShell.exe.config
+C:\Users\karen\source\repos\OrdenacionShell\OrdenacionShell\bin\Debug\OrdenacionShell.exe
+C:\Users\karen\source\repos\OrdenacionShell\OrdenacionShell\bin\Debug\OrdenacionShell.pdb
+C:\Users\karen\source\repos\OrdenacionShell\OrdenacionShell\obj\Debug\OrdenacionShell.csprojAssemblyReference.cache
+C:\Users\karen\source\repos\OrdenacionShell\OrdenacionShell\obj\Debug\OrdenacionShell.Form1.resources
+C:\Users\karen\source\repos\OrdenacionShell\OrdenacionShell\obj\Debug\OrdenacionShell.Properties.Resources.resources
+C:\Users\karen\source\repos\OrdenacionShell\OrdenacionShell\obj\Debug\OrdenacionShell.csproj.GenerateResource.cache
+C:\Users\karen\source\repos\OrdenacionShell\OrdenacionShell\obj\Debug\OrdenacionShell.csproj.CoreCompileInputs.cache
+C:\Users\karen\source\repos\OrdenacionShell\OrdenacionShell\obj\Debug\OrdenacionShell.exe
+C:\Users\karen\source\repos\OrdenacionShell\OrdenacionShell\obj\Debug\OrdenacionShell.pdb
